@@ -8,8 +8,20 @@ namespace PmClup.Controllers
 {
     public class HomeController : Controller
     {
-        // GET: Home
+        /// <summary>
+        /// Home Index
+        /// </summary>
+        /// <returns></returns>
         public ActionResult Index()
+        {
+            return View();
+        }
+
+        /// <summary>
+        /// Kurumsal
+        /// </summary>
+        /// <returns></returns>
+        public ActionResult Corporate()
         {
             return View();
         }
