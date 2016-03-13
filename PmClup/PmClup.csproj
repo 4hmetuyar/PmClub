@@ -267,6 +267,7 @@
     <Content Include="HTML\team-3-columns.html" />
     <Content Include="HTML\team-4-columns.html" />
     <Content Include="images\favicon.ico" />
+    <Content Include="images\logo.png" />
     <Content Include="js\bootstrap.min.js" />
     <Content Include="js\color-switcher.js" />
     <Content Include="js\highcharts-custom.js" />
