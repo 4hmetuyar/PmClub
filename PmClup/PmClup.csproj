@@ -272,6 +272,13 @@
     <Content Include="images\home\slide-2.jpg" />
     <Content Include="images\home\slide-3.jpg" />
     <Content Include="images\logo.png" />
+    <Content Include="images\product\cornerSofa\1.jpg" />
+    <Content Include="images\product\cornerSofa\7.jpg" />
+    <Content Include="images\product\cornerSofa\6.jpg" />
+    <Content Include="images\product\cornerSofa\5.jpg" />
+    <Content Include="images\product\cornerSofa\4.jpg" />
+    <Content Include="images\product\cornerSofa\3.jpg" />
+    <Content Include="images\product\cornerSofa\2.jpg" />
     <Content Include="js\bootstrap.min.js" />
     <Content Include="js\color-switcher.js" />
     <Content Include="js\highcharts-custom.js" />
